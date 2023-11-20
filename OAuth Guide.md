@@ -96,7 +96,12 @@ graph TD
 
 ### 🎥 Video Tutorials / Recources
 
+##### An introduction to OAuth 2.0. 
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
 ##### OAuth 2.0: An Overview
 https://www.youtube.com/watch?v=CPbvxxslDTU&ab_channel=InterSystemsLearningServices
 ##### What is OAuth (The Modern Guide)
 https://fusionauth.io/articles/oauth/modern-guide-to-oauth
+##### What is OAuth2 in simple Terms. 
+https://www.youtube.com/watch?v=ZV5yTm4pT8g&ab_channel=ByteByteGo
+
